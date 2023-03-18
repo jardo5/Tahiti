@@ -6,7 +6,7 @@
           Power Outlets
         </div>
         <div class="collapse-content"> 
-          <p>Power outlets are 120 volts</p>
+          <p>Power outlets are 120 volts. Sockets are type A, B and E.</p>
         </div>
       </div>
       <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
@@ -67,6 +67,31 @@
         </div>
         <div class="collapse-content"> 
           <p>Taniti uses the U.S. dollar as its currency, but many businesses will also accept euros and yen. Several banks facilitate currency exchange, and many businesses accept major credit cards.</p>
+        </div>
+      </div>
+      
+      <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
+      <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box w-1/3">
+        <div class="collapse-title text-xl font-medium">
+          How to get to Tahiti
+        </div>
+        <div class="collapse-content"> 
+          <p>Almost all visitors arrive to Taniti by air, though some arrive on a small cruise ship that docks in Yellow Leaf Bay for one night per week. 
+            Taniti is served by a small airport that can accommodate small jets and propeller planes. 
+            Taniti is in the process of expanding the airport so larger jets will be able to land on the island within the next few years. </p>
+        </div>
+      </div>
+      <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
+      <div tabindex="0" class="collapse collapse-plus border border-base-300 bg-base-100 rounded-box w-1/3">
+        <div class="collapse-title text-xl font-medium">
+          Transportation While on Tahiti
+        </div>
+        <div class="collapse-content"> 
+          <p>Public buses serve Taniti City and run from 5 a.m. to 11 p.m. every day. Private buses serve the rest of the island. 
+            Taxis are available in Taniti City, and rental cars can be rented from a local rental agency near the airport. 
+            Bikes and helmets are available to rent from several vendors (helmets are required by law). 
+            Taniti City is fairly flat and very walkable. 
+            Many tourists stay in the area surrounding Merriton Landing: this area is easy to explore on foot.</p>
         </div>
       </div>
 
